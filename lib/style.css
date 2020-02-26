@@ -1,0 +1,35 @@
+.jumbotron {
+	background: url('../images/jumbotron_bg_3.jpg') center center;
+	background-size: cover;
+	color: white;
+}
+
+.banner_1 {
+	height: 500px;
+}
+
+.banner_2 {
+	height: 300px;
+}
+
+.banner_2 h1 {
+	color: white;
+}
+
+.card *
+{
+	padding: 5px;
+}
+
+.card .card-text {
+	height: 4rem;
+	overflow-y: hidden;
+}
+
+.card img {
+	padding: 0;
+}
+
+.card .btn {
+	padding: 0;
+}
